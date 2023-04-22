@@ -1,0 +1,1 @@
+Just a small exploration of go syntax in the form of a simple linked list implementation.
